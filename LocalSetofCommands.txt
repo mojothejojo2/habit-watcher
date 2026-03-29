@@ -1,0 +1,19 @@
+Here were the local set of commands that were run to install this project as an application on mac
+
+10037  git clone git clone https://github.com/n4ze3m/habbit-watcher.git
+10038  git clone https://github.com/n4ze3m/habbit-watcher.git
+10039  cd habbit-watcher
+10040  yarn install
+10041  brew install yarn
+10042  brew install node
+10043  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+10044  . "$HOME/.cargo/env"
+10045  yarn install
+10046  yarn task build
+10047  yarn build
+10048  open .
+10049  yarn preview
+10050  yarn tauri build
+
+
+-- and for further details - the gemini generated help in the geminiHelp.md in same top folder.
